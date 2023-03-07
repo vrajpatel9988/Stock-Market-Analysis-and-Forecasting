@@ -38,6 +38,7 @@ Gated recurrent unit is essentially a simplified LSTM. It has the exact same rol
 
 <p align="left">
     <img src="https://www.researchgate.net/profile/Yuanhang-Su/publication/323570767/figure/fig3/AS:674145788506118@1537740289540/The-diagram-of-a-GRU-cell.ppm" width="570" height="470">
+    ![UI](gru.ppm)
   </p>
 
 Results
